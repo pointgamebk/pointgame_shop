@@ -2,7 +2,6 @@ import Button from "../components/Button";
 
 import { arrowRight } from "../assets/icons";
 import { statistics } from "../constants";
-import { bigShoe1 } from "../assets/images";
 
 const Hero = () => {
   return (

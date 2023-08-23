@@ -2,7 +2,6 @@ import Button from "../components/Button";
 
 import { arrowRight } from "../assets/icons";
 import { statistics } from "../constants";
-import { bigShoe1 } from "../assets/images";
 
 const Hero = () => {
   return (
@@ -31,16 +30,10 @@ const Hero = () => {
           {statistics.map((stat) => (
             <div>
               <p className="text-4xl font-palanquin font-bold">{stat.value}</p>
-              <p className="leading-7 font-montserrat text-slate-gray">
-                {stat.label}
-              </p>
+              <p>{stat.label}</p>
             </div>
           ))}
         </div>
-      </div>
-
-      <div>
-        <img src={bigShoe1} />
       </div>
     </section>
   );
