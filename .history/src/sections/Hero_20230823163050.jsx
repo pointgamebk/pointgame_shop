@@ -46,7 +46,7 @@ const Hero = () => {
 
       <div className="relative flex-1 flex justify-center items-center xl:min-h-screen max-xl:py-40 bg-primary bg-hero bg-cover bg-center">
         <img
-          src={bigShoeImg}
+          src={bigShoe1}
           alt="shoe collection"
           width={610}
           height={500}
@@ -58,8 +58,8 @@ const Hero = () => {
             <div key={shoe}>
               <ShoeCard
                 imgURL={shoe}
-                changeBigShoeImage={(shoe) => setBigShoeImg(shoe)}
-                bigShoeImg={bigShoeImg}
+                changeBigShoeImage={() => {}}
+                bigShoeImg=""
               />
             </div>
           ))}
