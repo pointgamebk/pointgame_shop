@@ -1,5 +1,5 @@
 import Button from "../components/Button";
-import { shoe8 } from "../assets/images";
+
 const SuperQuality = () => {
   return (
     <section
@@ -26,15 +26,7 @@ const SuperQuality = () => {
         </div>
       </div>
 
-      <div className="flex-1 flex justify-center items-center">
-        <img
-          src={shoe8}
-          alt="shoe8"
-          width={570}
-          height={522}
-          className="object-contain"
-        />
-      </div>
+      <div className="flex-1 flex justify-center items-center"></div>
     </section>
   );
 };
