@@ -17,7 +17,7 @@ const CustomerReviews = () => {
         {reviews.map((review) => (
           <ReviewCard
             key={review.customerName}
-            imgURL={review.imgURL}
+            imgURL={imgURL}
             customerName={review.customerName}
             rating={review.rating}
             feedback={review.feedback}
