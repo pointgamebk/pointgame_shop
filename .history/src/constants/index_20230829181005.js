@@ -44,30 +44,30 @@ export const shoes = [
 ];
 
 export const statistics = [
-  { value: "100k+", label: "Games Played" },
-  { value: "500k+", label: "Sales" },
+  { value: "1k+", label: "Brands" },
+  { value: "500+", label: "Shops" },
   { value: "250k+", label: "Customers" },
 ];
 
 export const products = [
   {
     imgURL: shoe4,
-    name: "Nike x p.g",
+    name: "Nike Shoe 1",
     price: "$200.00",
   },
   {
     imgURL: shoe5,
-    name: "p.g Kicks",
+    name: "Nike Shoe 2",
     price: "$200.00",
   },
   {
     imgURL: shoe6,
-    name: "Nike x p.g v2",
+    name: "Nike Shoe 3",
     price: "$220.00",
   },
   {
     imgURL: shoe7,
-    name: "New Balance x p.g",
+    name: "Nike Shoe 4",
     price: "$230.00",
   },
 ];
@@ -94,14 +94,14 @@ export const services = [
 export const reviews = [
   {
     imgURL: customer1,
-    customerName: "Matt Brown",
+    customerName: "Morich Brown",
     rating: 4.5,
     feedback:
       "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!",
   },
   {
     imgURL: customer2,
-    customerName: "Robin Collins",
+    customerName: "Lota Mongeskar",
     rating: 4.5,
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
@@ -133,7 +133,7 @@ export const footerLinks = [
   {
     title: "Get in touch",
     links: [
-      { name: "customer@pgshop.com", link: "mailto:customer@pgshop.com" },
+      { name: "customer@nike.com", link: "mailto:customer@nike.com" },
       { name: "+92554862354", link: "tel:+92554862354" },
     ],
   },

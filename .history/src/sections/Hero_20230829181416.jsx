@@ -23,13 +23,12 @@ const Hero = () => {
           <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">
             Introducing The
           </span>
-          <span className="text-coral-red inline-block mt-3">point.game</span>{" "}
+          <span className="text-coral-red inline-block mt-3">p.gGo</span> Fall
           Collection
         </h1>
         <p className="font-monsterrat text-slate-grey text-lg leading-8 mt-6 mb-14 sm:max-w-sm">
-          Discover premium pieces designed to take your games to the next level.
-          Each item was designed by a creative leader, marrying style and
-          function at the highest levels.
+          Discover stylish Nike arrivals, quality comfort, and innovation for
+          your active life.
         </p>
         <Button label="Shop now" iconURL={arrowRight} />
 

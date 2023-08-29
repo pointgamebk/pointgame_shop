@@ -44,30 +44,30 @@ export const shoes = [
 ];
 
 export const statistics = [
-  { value: "100k+", label: "Games Played" },
-  { value: "500k+", label: "Sales" },
+  { value: "1k+", label: "Games Played" },
+  { value: "500+", label: "Sales" },
   { value: "250k+", label: "Customers" },
 ];
 
 export const products = [
   {
     imgURL: shoe4,
-    name: "Nike x p.g",
+    name: "Nike Shoe 1",
     price: "$200.00",
   },
   {
     imgURL: shoe5,
-    name: "p.g Kicks",
+    name: "Nike Shoe 2",
     price: "$200.00",
   },
   {
     imgURL: shoe6,
-    name: "Nike x p.g v2",
+    name: "Nike Shoe 3",
     price: "$220.00",
   },
   {
     imgURL: shoe7,
-    name: "New Balance x p.g",
+    name: "Nike Shoe 4",
     price: "$230.00",
   },
 ];

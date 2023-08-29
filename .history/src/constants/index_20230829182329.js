@@ -67,7 +67,7 @@ export const products = [
   },
   {
     imgURL: shoe7,
-    name: "New Balance x p.g",
+    name: "Nike Shoe 4",
     price: "$230.00",
   },
 ];
