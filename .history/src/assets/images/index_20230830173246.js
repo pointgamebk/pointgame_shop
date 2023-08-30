@@ -7,7 +7,7 @@ import customer2 from "./customer2.svg";
 
 import footerLogo from "./footer-logo.svg";
 import headerLogo from "./header-logo.svg";
-import headerlogo2 from "./pointgame2.svg";
+import headerlogo2 from "./logoattemot1.svg";
 import footerlogo2 from "./footerattempt1.svg";
 
 import offer from "./offer.svg";
