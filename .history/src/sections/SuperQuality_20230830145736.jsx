@@ -19,7 +19,7 @@ const SuperQuality = () => {
           quality and innovaton.
         </p>
         <p className="mt-6 lg:max-w-lg info-text">
-          Our dedication to the game is what drives us to push the boundaries.
+          Our dedication to detail and excellence ensures your satisfaction
         </p>
         <div className="mt-11">
           <Button label="View Details" />
